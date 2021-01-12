@@ -2,7 +2,7 @@
 
 [![HitCount](https://hits.dwyl.com/tuliofaria/tuliofaria/palpite-box.svg)](https://github.com/matheuspedrosoo/palpite-box)
 
-Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com) por orientação de Tulio Faria - [LinkedIn](https://www.linkedin.com/in/tuliofaria/) / [Github](https://github.com/tuliofaria) Uma versão online deste projeto pode ser encontrada em: https://palpite-box-eosin.vercel.app/.
+Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com) por orientação de Tulio Faria - [LinkedIn](https://www.linkedin.com/in/tuliofaria/) / [Github](https://github.com/tuliofaria). Uma versão online deste projeto pode ser encontrada em: https://palpite-box-eosin.vercel.app/.
 
 ![Preview](https://github.com/tuliofaria/palpite-box/blob/master/print.png?raw=true)
 
