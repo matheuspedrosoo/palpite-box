@@ -52,4 +52,4 @@ Este projeto é licenciado sobre a licença MIT - veja [LICENSE.md](LICENSE.md) 
 
 ## Acknowledgments
 
-* Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com) Por orientação de Tulio Faria - [LinkedIn](https://www.linkedin.com/in/tuliofaria/) / [Github](https://github.com/tuliofaria)
+* Este projeto foi construído durante a Semana Fullstack Master do [DevPleno](https://devpleno.com) por orientação de Tulio Faria - [LinkedIn](https://www.linkedin.com/in/tuliofaria/) / [Github](https://github.com/tuliofaria)
